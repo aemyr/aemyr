@@ -5,4 +5,4 @@
 - Formal Methods
 - MAS
 
-* Active around 8 AM – 6 PM GMT | Hours may vary
+* Active around 8 AM – 6 PM UTC | Hours may vary
