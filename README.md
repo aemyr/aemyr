@@ -5,5 +5,5 @@
 - Formal Methods
 - MAS
 
-* Active around 8 AM – 6 PM UTC | Hours may vary
+* My active hours are all over the place, so I gave up on predicting them..
 * Formerly @elias-log.
