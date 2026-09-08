@@ -1,10 +1,11 @@
 ## Interests
 
 - Distributed Systems
-- Cyber-Physical Transactions
+- Fault Tolerance
 - Formal Methods
 - MAS
-- Simulations
+- Cyber-Physical Transactions
+- Simulation
 - PL
 
 Formerly @elias-log.
