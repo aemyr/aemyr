@@ -1,4 +1,4 @@
-## Research Interests
+## Interests
 
 - Distributed Systems
 - Cyber-Physical Transactions
